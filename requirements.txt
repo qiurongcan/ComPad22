@@ -1,0 +1,9 @@
+tqdm
+pandas
+numpy
+torch_geometric
+scikit-learn
+transformers
+termcolor
+openmesh
+flash-attn==2.5.9.post1
